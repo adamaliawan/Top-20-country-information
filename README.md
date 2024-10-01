@@ -1,4 +1,4 @@
- Country Information Data Analysis Project
+# Country Information Data Analysis Project
 
 This project showcases the use of both Excel and Tableau to analyze country-level data, such as GDP, life expectancy, and smartphone usage. The primary goals are to demonstrate proficiency in data manipulation, visualization, and dashboard creation using Excel and Tableau.
 
